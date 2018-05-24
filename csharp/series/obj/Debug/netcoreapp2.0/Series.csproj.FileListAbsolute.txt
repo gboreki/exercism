@@ -1,0 +1,14 @@
+C:\Users\natas\exercism\csharp\series\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natas\exercism\csharp\series\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\series\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\series\bin\Debug\netcoreapp2.0\Series.deps.json
+C:\Users\natas\exercism\csharp\series\bin\Debug\netcoreapp2.0\Series.runtimeconfig.json
+C:\Users\natas\exercism\csharp\series\bin\Debug\netcoreapp2.0\Series.runtimeconfig.dev.json
+C:\Users\natas\exercism\csharp\series\bin\Debug\netcoreapp2.0\Series.dll
+C:\Users\natas\exercism\csharp\series\bin\Debug\netcoreapp2.0\Series.pdb
+C:\Users\natas\exercism\csharp\series\obj\Debug\netcoreapp2.0\Series.csprojResolveAssemblyReference.cache
+C:\Users\natas\exercism\csharp\series\obj\Debug\netcoreapp2.0\Series.csproj.CoreCompileInputs.cache
+C:\Users\natas\exercism\csharp\series\obj\Debug\netcoreapp2.0\Series.AssemblyInfoInputs.cache
+C:\Users\natas\exercism\csharp\series\obj\Debug\netcoreapp2.0\Series.AssemblyInfo.cs
+C:\Users\natas\exercism\csharp\series\obj\Debug\netcoreapp2.0\Series.dll
+C:\Users\natas\exercism\csharp\series\obj\Debug\netcoreapp2.0\Series.pdb

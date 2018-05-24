@@ -1,0 +1,14 @@
+C:\Users\natas\exercism\csharp\dominoes\obj\Debug\netcoreapp2.0\Dominoes.csprojResolveAssemblyReference.cache
+C:\Users\natas\exercism\csharp\dominoes\obj\Debug\netcoreapp2.0\Dominoes.csproj.CoreCompileInputs.cache
+C:\Users\natas\exercism\csharp\dominoes\obj\Debug\netcoreapp2.0\Dominoes.AssemblyInfoInputs.cache
+C:\Users\natas\exercism\csharp\dominoes\obj\Debug\netcoreapp2.0\Dominoes.AssemblyInfo.cs
+C:\Users\natas\exercism\csharp\dominoes\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natas\exercism\csharp\dominoes\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\dominoes\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\dominoes\bin\Debug\netcoreapp2.0\Dominoes.deps.json
+C:\Users\natas\exercism\csharp\dominoes\bin\Debug\netcoreapp2.0\Dominoes.runtimeconfig.json
+C:\Users\natas\exercism\csharp\dominoes\bin\Debug\netcoreapp2.0\Dominoes.runtimeconfig.dev.json
+C:\Users\natas\exercism\csharp\dominoes\bin\Debug\netcoreapp2.0\Dominoes.dll
+C:\Users\natas\exercism\csharp\dominoes\bin\Debug\netcoreapp2.0\Dominoes.pdb
+C:\Users\natas\exercism\csharp\dominoes\obj\Debug\netcoreapp2.0\Dominoes.dll
+C:\Users\natas\exercism\csharp\dominoes\obj\Debug\netcoreapp2.0\Dominoes.pdb

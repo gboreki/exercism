@@ -1,0 +1,14 @@
+C:\Users\natas\exercism\csharp\nth-prime\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natas\exercism\csharp\nth-prime\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\nth-prime\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\nth-prime\bin\Debug\netcoreapp2.0\NthPrime.deps.json
+C:\Users\natas\exercism\csharp\nth-prime\bin\Debug\netcoreapp2.0\NthPrime.runtimeconfig.json
+C:\Users\natas\exercism\csharp\nth-prime\bin\Debug\netcoreapp2.0\NthPrime.runtimeconfig.dev.json
+C:\Users\natas\exercism\csharp\nth-prime\bin\Debug\netcoreapp2.0\NthPrime.dll
+C:\Users\natas\exercism\csharp\nth-prime\bin\Debug\netcoreapp2.0\NthPrime.pdb
+C:\Users\natas\exercism\csharp\nth-prime\obj\Debug\netcoreapp2.0\NthPrime.csprojResolveAssemblyReference.cache
+C:\Users\natas\exercism\csharp\nth-prime\obj\Debug\netcoreapp2.0\NthPrime.csproj.CoreCompileInputs.cache
+C:\Users\natas\exercism\csharp\nth-prime\obj\Debug\netcoreapp2.0\NthPrime.AssemblyInfoInputs.cache
+C:\Users\natas\exercism\csharp\nth-prime\obj\Debug\netcoreapp2.0\NthPrime.AssemblyInfo.cs
+C:\Users\natas\exercism\csharp\nth-prime\obj\Debug\netcoreapp2.0\NthPrime.dll
+C:\Users\natas\exercism\csharp\nth-prime\obj\Debug\netcoreapp2.0\NthPrime.pdb

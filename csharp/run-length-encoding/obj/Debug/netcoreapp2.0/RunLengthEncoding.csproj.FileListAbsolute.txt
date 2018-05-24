@@ -1,0 +1,14 @@
+C:\Users\natas\exercism\csharp\run-length-encoding\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natas\exercism\csharp\run-length-encoding\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\run-length-encoding\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\run-length-encoding\bin\Debug\netcoreapp2.0\RunLengthEncoding.deps.json
+C:\Users\natas\exercism\csharp\run-length-encoding\bin\Debug\netcoreapp2.0\RunLengthEncoding.runtimeconfig.json
+C:\Users\natas\exercism\csharp\run-length-encoding\bin\Debug\netcoreapp2.0\RunLengthEncoding.runtimeconfig.dev.json
+C:\Users\natas\exercism\csharp\run-length-encoding\bin\Debug\netcoreapp2.0\RunLengthEncoding.dll
+C:\Users\natas\exercism\csharp\run-length-encoding\bin\Debug\netcoreapp2.0\RunLengthEncoding.pdb
+C:\Users\natas\exercism\csharp\run-length-encoding\obj\Debug\netcoreapp2.0\RunLengthEncoding.csprojResolveAssemblyReference.cache
+C:\Users\natas\exercism\csharp\run-length-encoding\obj\Debug\netcoreapp2.0\RunLengthEncoding.csproj.CoreCompileInputs.cache
+C:\Users\natas\exercism\csharp\run-length-encoding\obj\Debug\netcoreapp2.0\RunLengthEncoding.AssemblyInfoInputs.cache
+C:\Users\natas\exercism\csharp\run-length-encoding\obj\Debug\netcoreapp2.0\RunLengthEncoding.AssemblyInfo.cs
+C:\Users\natas\exercism\csharp\run-length-encoding\obj\Debug\netcoreapp2.0\RunLengthEncoding.dll
+C:\Users\natas\exercism\csharp\run-length-encoding\obj\Debug\netcoreapp2.0\RunLengthEncoding.pdb

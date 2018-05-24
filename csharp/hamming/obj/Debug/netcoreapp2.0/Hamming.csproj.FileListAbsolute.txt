@@ -1,0 +1,14 @@
+C:\Users\natas\exercism\csharp\hamming\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natas\exercism\csharp\hamming\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\hamming\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\hamming\bin\Debug\netcoreapp2.0\Hamming.deps.json
+C:\Users\natas\exercism\csharp\hamming\bin\Debug\netcoreapp2.0\Hamming.runtimeconfig.json
+C:\Users\natas\exercism\csharp\hamming\bin\Debug\netcoreapp2.0\Hamming.runtimeconfig.dev.json
+C:\Users\natas\exercism\csharp\hamming\bin\Debug\netcoreapp2.0\Hamming.dll
+C:\Users\natas\exercism\csharp\hamming\bin\Debug\netcoreapp2.0\Hamming.pdb
+C:\Users\natas\exercism\csharp\hamming\obj\Debug\netcoreapp2.0\Hamming.csprojResolveAssemblyReference.cache
+C:\Users\natas\exercism\csharp\hamming\obj\Debug\netcoreapp2.0\Hamming.csproj.CoreCompileInputs.cache
+C:\Users\natas\exercism\csharp\hamming\obj\Debug\netcoreapp2.0\Hamming.AssemblyInfoInputs.cache
+C:\Users\natas\exercism\csharp\hamming\obj\Debug\netcoreapp2.0\Hamming.AssemblyInfo.cs
+C:\Users\natas\exercism\csharp\hamming\obj\Debug\netcoreapp2.0\Hamming.dll
+C:\Users\natas\exercism\csharp\hamming\obj\Debug\netcoreapp2.0\Hamming.pdb

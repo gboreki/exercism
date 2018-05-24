@@ -1,0 +1,14 @@
+C:\Users\natas\exercism\csharp\etl\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natas\exercism\csharp\etl\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\etl\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\etl\bin\Debug\netcoreapp2.0\Etl.deps.json
+C:\Users\natas\exercism\csharp\etl\bin\Debug\netcoreapp2.0\Etl.runtimeconfig.json
+C:\Users\natas\exercism\csharp\etl\bin\Debug\netcoreapp2.0\Etl.runtimeconfig.dev.json
+C:\Users\natas\exercism\csharp\etl\bin\Debug\netcoreapp2.0\Etl.dll
+C:\Users\natas\exercism\csharp\etl\bin\Debug\netcoreapp2.0\Etl.pdb
+C:\Users\natas\exercism\csharp\etl\obj\Debug\netcoreapp2.0\Etl.csprojResolveAssemblyReference.cache
+C:\Users\natas\exercism\csharp\etl\obj\Debug\netcoreapp2.0\Etl.csproj.CoreCompileInputs.cache
+C:\Users\natas\exercism\csharp\etl\obj\Debug\netcoreapp2.0\Etl.AssemblyInfoInputs.cache
+C:\Users\natas\exercism\csharp\etl\obj\Debug\netcoreapp2.0\Etl.AssemblyInfo.cs
+C:\Users\natas\exercism\csharp\etl\obj\Debug\netcoreapp2.0\Etl.dll
+C:\Users\natas\exercism\csharp\etl\obj\Debug\netcoreapp2.0\Etl.pdb
