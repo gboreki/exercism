@@ -1,0 +1,14 @@
+C:\Users\natas\exercism\csharp\diffie-hellman\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natas\exercism\csharp\diffie-hellman\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\diffie-hellman\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\diffie-hellman\bin\Debug\netcoreapp2.0\DiffieHellman.deps.json
+C:\Users\natas\exercism\csharp\diffie-hellman\bin\Debug\netcoreapp2.0\DiffieHellman.runtimeconfig.json
+C:\Users\natas\exercism\csharp\diffie-hellman\bin\Debug\netcoreapp2.0\DiffieHellman.runtimeconfig.dev.json
+C:\Users\natas\exercism\csharp\diffie-hellman\bin\Debug\netcoreapp2.0\DiffieHellman.dll
+C:\Users\natas\exercism\csharp\diffie-hellman\bin\Debug\netcoreapp2.0\DiffieHellman.pdb
+C:\Users\natas\exercism\csharp\diffie-hellman\obj\Debug\netcoreapp2.0\DiffieHellman.csprojResolveAssemblyReference.cache
+C:\Users\natas\exercism\csharp\diffie-hellman\obj\Debug\netcoreapp2.0\DiffieHellman.csproj.CoreCompileInputs.cache
+C:\Users\natas\exercism\csharp\diffie-hellman\obj\Debug\netcoreapp2.0\DiffieHellman.AssemblyInfoInputs.cache
+C:\Users\natas\exercism\csharp\diffie-hellman\obj\Debug\netcoreapp2.0\DiffieHellman.AssemblyInfo.cs
+C:\Users\natas\exercism\csharp\diffie-hellman\obj\Debug\netcoreapp2.0\DiffieHellman.dll
+C:\Users\natas\exercism\csharp\diffie-hellman\obj\Debug\netcoreapp2.0\DiffieHellman.pdb

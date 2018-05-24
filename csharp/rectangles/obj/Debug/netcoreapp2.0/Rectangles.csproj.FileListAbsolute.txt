@@ -1,0 +1,14 @@
+C:\Users\natas\exercism\csharp\rectangles\obj\Debug\netcoreapp2.0\Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\natas\exercism\csharp\rectangles\obj\Debug\netcoreapp2.0\Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\natas\exercism\csharp\rectangles\obj\Debug\netcoreapp2.0\Rectangles.AssemblyInfoInputs.cache
+C:\Users\natas\exercism\csharp\rectangles\obj\Debug\netcoreapp2.0\Rectangles.AssemblyInfo.cs
+C:\Users\natas\exercism\csharp\rectangles\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natas\exercism\csharp\rectangles\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\rectangles\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\rectangles\bin\Debug\netcoreapp2.0\Rectangles.deps.json
+C:\Users\natas\exercism\csharp\rectangles\bin\Debug\netcoreapp2.0\Rectangles.runtimeconfig.json
+C:\Users\natas\exercism\csharp\rectangles\bin\Debug\netcoreapp2.0\Rectangles.runtimeconfig.dev.json
+C:\Users\natas\exercism\csharp\rectangles\bin\Debug\netcoreapp2.0\Rectangles.dll
+C:\Users\natas\exercism\csharp\rectangles\bin\Debug\netcoreapp2.0\Rectangles.pdb
+C:\Users\natas\exercism\csharp\rectangles\obj\Debug\netcoreapp2.0\Rectangles.dll
+C:\Users\natas\exercism\csharp\rectangles\obj\Debug\netcoreapp2.0\Rectangles.pdb

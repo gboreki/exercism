@@ -1,0 +1,14 @@
+C:\Users\natas\exercism\csharp\bracket-push\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natas\exercism\csharp\bracket-push\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\bracket-push\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\bracket-push\bin\Debug\netcoreapp2.0\BracketPush.deps.json
+C:\Users\natas\exercism\csharp\bracket-push\bin\Debug\netcoreapp2.0\BracketPush.runtimeconfig.json
+C:\Users\natas\exercism\csharp\bracket-push\bin\Debug\netcoreapp2.0\BracketPush.runtimeconfig.dev.json
+C:\Users\natas\exercism\csharp\bracket-push\bin\Debug\netcoreapp2.0\BracketPush.dll
+C:\Users\natas\exercism\csharp\bracket-push\bin\Debug\netcoreapp2.0\BracketPush.pdb
+C:\Users\natas\exercism\csharp\bracket-push\obj\Debug\netcoreapp2.0\BracketPush.csprojResolveAssemblyReference.cache
+C:\Users\natas\exercism\csharp\bracket-push\obj\Debug\netcoreapp2.0\BracketPush.csproj.CoreCompileInputs.cache
+C:\Users\natas\exercism\csharp\bracket-push\obj\Debug\netcoreapp2.0\BracketPush.AssemblyInfoInputs.cache
+C:\Users\natas\exercism\csharp\bracket-push\obj\Debug\netcoreapp2.0\BracketPush.AssemblyInfo.cs
+C:\Users\natas\exercism\csharp\bracket-push\obj\Debug\netcoreapp2.0\BracketPush.dll
+C:\Users\natas\exercism\csharp\bracket-push\obj\Debug\netcoreapp2.0\BracketPush.pdb

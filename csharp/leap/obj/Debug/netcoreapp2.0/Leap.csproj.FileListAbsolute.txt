@@ -1,0 +1,14 @@
+C:\Users\natas\exercism\csharp\leap\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natas\exercism\csharp\leap\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\leap\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\leap\bin\Debug\netcoreapp2.0\Leap.deps.json
+C:\Users\natas\exercism\csharp\leap\bin\Debug\netcoreapp2.0\Leap.runtimeconfig.json
+C:\Users\natas\exercism\csharp\leap\bin\Debug\netcoreapp2.0\Leap.runtimeconfig.dev.json
+C:\Users\natas\exercism\csharp\leap\bin\Debug\netcoreapp2.0\Leap.dll
+C:\Users\natas\exercism\csharp\leap\bin\Debug\netcoreapp2.0\Leap.pdb
+C:\Users\natas\exercism\csharp\leap\obj\Debug\netcoreapp2.0\Leap.csprojResolveAssemblyReference.cache
+C:\Users\natas\exercism\csharp\leap\obj\Debug\netcoreapp2.0\Leap.csproj.CoreCompileInputs.cache
+C:\Users\natas\exercism\csharp\leap\obj\Debug\netcoreapp2.0\Leap.AssemblyInfoInputs.cache
+C:\Users\natas\exercism\csharp\leap\obj\Debug\netcoreapp2.0\Leap.AssemblyInfo.cs
+C:\Users\natas\exercism\csharp\leap\obj\Debug\netcoreapp2.0\Leap.dll
+C:\Users\natas\exercism\csharp\leap\obj\Debug\netcoreapp2.0\Leap.pdb

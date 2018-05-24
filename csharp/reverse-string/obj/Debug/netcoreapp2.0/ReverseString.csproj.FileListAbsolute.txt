@@ -1,0 +1,14 @@
+C:\Users\natas\exercism\csharp\reverse-string\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natas\exercism\csharp\reverse-string\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\reverse-string\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natas\exercism\csharp\reverse-string\bin\Debug\netcoreapp2.0\ReverseString.deps.json
+C:\Users\natas\exercism\csharp\reverse-string\bin\Debug\netcoreapp2.0\ReverseString.runtimeconfig.json
+C:\Users\natas\exercism\csharp\reverse-string\bin\Debug\netcoreapp2.0\ReverseString.runtimeconfig.dev.json
+C:\Users\natas\exercism\csharp\reverse-string\bin\Debug\netcoreapp2.0\ReverseString.dll
+C:\Users\natas\exercism\csharp\reverse-string\bin\Debug\netcoreapp2.0\ReverseString.pdb
+C:\Users\natas\exercism\csharp\reverse-string\obj\Debug\netcoreapp2.0\ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\natas\exercism\csharp\reverse-string\obj\Debug\netcoreapp2.0\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\natas\exercism\csharp\reverse-string\obj\Debug\netcoreapp2.0\ReverseString.AssemblyInfoInputs.cache
+C:\Users\natas\exercism\csharp\reverse-string\obj\Debug\netcoreapp2.0\ReverseString.AssemblyInfo.cs
+C:\Users\natas\exercism\csharp\reverse-string\obj\Debug\netcoreapp2.0\ReverseString.dll
+C:\Users\natas\exercism\csharp\reverse-string\obj\Debug\netcoreapp2.0\ReverseString.pdb
