@@ -5719,11 +5719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natas\\exercism\\csharp\\sieve\\Sieve.csproj",
-      "projectName": "Sieve",
-      "projectPath": "C:\\Users\\natas\\exercism\\csharp\\sieve\\Sieve.csproj",
+      "projectUniqueName": "C:\\Users\\natas\\exercism\\csharp\\zipper\\Zipper.csproj",
+      "projectName": "Zipper",
+      "projectPath": "C:\\Users\\natas\\exercism\\csharp\\zipper\\Zipper.csproj",
       "packagesPath": "C:\\Users\\natas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natas\\exercism\\csharp\\sieve\\obj\\",
+      "outputPath": "C:\\Users\\natas\\exercism\\csharp\\zipper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
