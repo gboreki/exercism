@@ -12,18 +12,21 @@ public static class RunLengthEncoding
             return String.Empty;
 
         StringBuilder sb = new StringBuilder();
-        int accum = 0;
+        int accumulator = 0;
         char current;
         int i = 0;
 
         do
         {
             current = input[i];
-            accum = 0;
-            while (i < input.Length && input[i] == current) { accum++; i++; };
-            if (accum > 1)
+            accumulator = 0;
+            // Accumulate number of times a character is repeated
+            while (i < input.Length && input[i] == current) { accumulator++; i++; };
+
+            // Prefix character with number to repeat
+            if (accumulator > 1)
             {
-                sb.Append(accum.ToString());
+                sb.Append(accumulator.ToString());
             }
             sb.Append(current);
             
@@ -37,22 +40,31 @@ public static class RunLengthEncoding
         if (string.IsNullOrEmpty(input))
             return string.Empty;
 
-        StringBuilder sb = new StringBuilder();
+        StringBuilder decodedString = new StringBuilder();
         int i = 0;
-        string cur = "";
+        string timesToRepeat = "";
         do
         {
-            while (char.IsNumber(input[i]))
+            // repeated characters are prefixed by digits
+            // concatenate digits to form full number
+            while (char.IsDigit(input[i]))
             {
-                cur += input[i];
+                timesToRepeat += input[i];
                 i++;
             }
-            sb.Append(Enumerable.Repeat(input[i], string.IsNullOrEmpty(cur) ? 1 : Int32.Parse(cur)).ToArray());
-            cur = "";
-            i++;
-        } while (i < input.Length);
 
-        return sb.ToString();
+            // If no prefix digits, no repetition hence 1
+            int repeat = string.IsNullOrEmpty(timesToRepeat) 
+                ? 1 
+                : Int32.Parse(timesToRepeat);
+
+            var repeatedCharacter = new String(input[i], repeat);
+            decodedString.Append(repeatedCharacter);
+            timesToRepeat = "";
+        }
+        while (++i < input.Length);
+
+        return decodedString.ToString();
     }
 
 }
